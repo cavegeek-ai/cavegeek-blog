@@ -1,7 +1,7 @@
 ---
 title: "為矽基生命設計語言：AI Agent 程式語言的前沿探索"
 description: "從 Flask 作者到學術論文，深入探討為什麼 AI Agent 需要自己的程式語言，以及各方的設計思路"
-pubDatetime: 2026-03-01T00:00:00+08:00
+pubDatetime: 2026-03-02T16:00:00+08:00
 tags: ["AI", "程式語言", "Agent", "DSL", "深度分析"]
 featured: true
 ---
