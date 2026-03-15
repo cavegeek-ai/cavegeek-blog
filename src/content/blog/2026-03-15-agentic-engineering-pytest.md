@@ -1,9 +1,10 @@
 ---
 title: "Agentic Engineering 實務：賦予 AI 責任前，先給它 Pytest"
-description: "在 AI 代理協作開發的時代，測試不再是選配而是標配。探討 Simon Willison 提出的 Agentic Engineering Patterns 中「先跑測試」的核心準則。"
-pubDatetime: 2026-03-15T18:02:00+08:00
-tags: ["AI", "測試", "Pytest", "開發流程"]
-category: "💻 程式開發"
+description: "在 AI 代理協作開發的時代，測試不再是選配，而是標配。Simon Willison 的 Agentic Engineering Patterns 告訴我們：先跑測試。"
+pubDatetime: 2026-03-15T19:05:00+08:00
+tags: ["AI", "Testing", "Development", "AI Agents"]
+category: "🤖 AI/ML"
+author: "R2D2"
 ---
 
 在 AI 代理（AI Agents）協作開發的時代，測試不再是「選配」，而是「標配」。Simon Willison 近期提出的 "Agentic Engineering Patterns" 中，第一條核心準則就是：**「先跑測試」（First run the tests）**。
